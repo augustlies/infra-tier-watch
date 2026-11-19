@@ -1,0 +1,8 @@
+{
+  "name": "infra-tier-watch",
+  "private": true,
+  "scripts": {
+    "test": "pnpm -r test"
+  },
+  "packageManager": "pnpm@9.0.0"
+}

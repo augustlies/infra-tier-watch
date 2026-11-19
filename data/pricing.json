@@ -1,0 +1,16 @@
+[
+  {
+    "provider": "vercel",
+    "tier": "hobby",
+    "base_monthly_usd": 0,
+    "included_quota": "100GB bandwidth",
+    "overage_rate": "hard_cap_or_pause"
+  },
+  {
+    "provider": "supabase",
+    "tier": "free",
+    "base_monthly_usd": 0,
+    "included_quota": "500MB DB / 5GB egress",
+    "overage_rate": "project_paused"
+  }
+]
